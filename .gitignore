@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+
+# Medical/private data
+patient_data/
+private_data/
+datasets/
+raw_data/
+
+# Model weights
+weights/
+*.pt
+*.pth
+*.onnx
+*.h5
+
+# Training/cache artifacts
+runs/
+cache/
+tmp/
+
+# Large files
+*.zip
+*.mp4
+*.mov
+*.avi
