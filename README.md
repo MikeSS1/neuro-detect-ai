@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Neuro Detect AI
 
 Neuro Detect AI is an applied machine-learning and computer-vision project focused on assisting medical-image analysis through automated segmentation and detection.
@@ -26,7 +25,3 @@ src/              Selected model and inference code
 screenshots/      Prototype/application screenshots
 results/          Model evaluation metrics and plots
 sample_outputs/   Selected training and prediction examples
-=======
-# brain_tumor_detect
-Brain_Tumor_Segmentation_Detect
->>>>>>> c6ea26180a35f7cab1ee3368b2c0bd0d39aa999b
